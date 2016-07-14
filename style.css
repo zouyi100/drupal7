@@ -1,0 +1,30 @@
+.title1 
+{
+	overflow: none;
+	background-color: grey;
+}
+
+.title1 p
+{
+	font-size: 30px;
+	font-weight: 5;
+	margin: auto auto;
+}
+
+.left
+{
+	background-color: red;
+	float: left;
+	height: 100px;
+	width: 49%;
+	margin: 0 5px;
+}
+
+.right
+{
+	background-color: blue;
+	float: right;
+	height: 100px;
+	width: 49%;
+	margin: 0 5px;
+}
